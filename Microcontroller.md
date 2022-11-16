@@ -1,6 +1,6 @@
 ---
 author: Vasdekis
-image_url: /images/MCU.jpg
+image_url: /images/A-MCU.jpg
 title: Μικροελεγκτής
 year: 1971 
 caption: 

@@ -1,6 +1,6 @@
 ---
 author: Vasdekis
-image_url: /images/PDT.png
+image_url: /images/A-PDT.png
 title: Φορητό Τερματικό Δεδομένων
 year: 2008 
 caption: 
