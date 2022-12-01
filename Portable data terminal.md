@@ -1,9 +1,9 @@
 ---
 author: Vasdekis
-image_url: /images/A-PDT.png
+image_url: /images/PDT.png
 title: Φορητό Τερματικό Δεδομένων
 year: 2008 
-caption: 
+caption: sotiiiirrrr
 license_url: "https://en.wikipedia.org/wiki/Portable_data_terminal#/media/File:Portable_data_terminal.jpg" 
 license_text: Wikimedia 
 categories:
